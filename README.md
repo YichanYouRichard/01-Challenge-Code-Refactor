@@ -33,7 +33,8 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets-readme/01-html-css-git-homework-demo.png)
+
 
 ## Coding that I attempted to change. 
 I substitute the html element div into semantic html elements.
@@ -53,3 +54,9 @@ I have put alt attribute and title attribute for each image and icons in the sec
 I have fixed the title into Horiseon, 
 
 I have put alt attribute for title of the webpage in the heading attribute.
+
+Below is the screenshot of the webpage of the challenge-1-Code-Refactor. 
+
+![Screenshot of Challenge One, Code Refactor for the webpage, Horiseon](./assets-readme/screenshot-full-page.png)
+
+
